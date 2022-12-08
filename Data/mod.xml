@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Mod>
+    <!-- The ID is necessary and should never change between versions of the same mod -->
+    <!-- The id can consist of english alphabet or dash "-" -->
+    <Id>com-explosiveeggshells-versus-plus</Id> 
+    <!-- The human readable name is presented in UI's -->
+    <Name>Versus Plus</Name> 
+
+    <Category>Script</Category>
+
+    <!-- Thumbnail used in-game, no strict size is defined yet, should be 16:9 -->
+    <Thumbnail>Data/Images/versus-plus/thumb.png</Thumbnail>
+    <!-- First preview image will be used as preview on steamworks, you can add additional ones -->
+    <PreviewImage>Data/Images/versus-plus/full.png</PreviewImage>
+    
+    <Description>An improved versus mode script, fixing some bugs, adding QOL tweaks, and adding new features!</Description>
+    
+    <!-- Version number, can have any formatting you wish. Can consists of numbers english alphabet, "." or "-" -->
+    <Version>1.0.0</Version>
+    
+    <!-- Your immortal stamp -->
+    <Author>Explosive Eggshells</Author>
+    
+    <Tag>Versus</Tag>
+    <Tag>Script</Tag>
+    <Tag>Level</Tag>
+
+    <!-- Indicate that mod is compatible with __ALL__ versions of overgrowth, use with care, especially with script mods -->
+    <SupportedVersion>*</SupportedVersion>
+
+    <!-- Indicate whether or not the game needs to restart for the mod to function properly, this will have to be determined via manual testing. -->
+    <NeedsRestart>false</NeedsRestart>
+</Mod>
